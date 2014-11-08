@@ -14,3 +14,7 @@ Install:
 4) Start service (from service manager or using "net start Redis" console command)
 
 Enjoy.
+
+# section 1
+
+This is a test section only for testing. Please ignore
